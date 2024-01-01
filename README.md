@@ -1,42 +1,37 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Título 
+Os 5 princípios do reiki! ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei algumas imagens, quer dizer eu não o aplicativo!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado a IAs Generativdas Bing
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei algumas imagens, com base na ideia do Reiki, para acalmar a mente!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados foram muito satisfatórios!
+Fica aí o link:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+https://www.bing.com/images/create/uma-imagem-com-os-cinco-princc3adpios-do-reiki/1-6592f2e6b348434ab95175ceb4b01580?id=m6e%2Fh6WS43uc3p%2FZ1yDpxQ%3D%3D&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC&ssp=1&setlang=pt-br&cc=BR&PC=SAADAND
+
+
+https://www.bing.com/images/create/uma-imagem-com-plano-de-fundo-sobre-meditac3a7c3a3o-e-di/1-6592f46d347c40c388676ce7761c70cf?id=gqNJym5h1EtwrG%2FQOObTSA%3D%3D&view=detailv2&idpp=genimg&ssp=1&safesearch=moderate&setlang=pt-br&cc=BR&PC=SAADAND
+
+
+https://www.bing.com/images/create/paz/1-659313ad5df34844ab6923687c1e6c47?id=uAFVN9XyFnaGg7uDWp%2FSRQ%3D%3D&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC&ssp=1&setlang=pt-br&cc=BR&PC=SAADAND&safesearch=moderate
+
+https://www.bing.com/images/create/paz/1-659313ad5df34844ab6923687c1e6c47?id=Be1KgP8HeI5vlfYvk0RpDQ.NoA5f6n1IA39dpgI43oeZA&view=detailv2&idpp=genimg&idpclose=1&form=SYDBIC&ssp=1&setlang=pt-br&cc=BR&pc=SAADAND&safesearch=moderate&PC=SAADAND
+
+
+
+## 💭 Reflexão (Opcional).
+É uma ferramenta muito interessante, pois da asas a nossa imaginação!
 
 ### Exemplos e Insigths
 
